@@ -7,8 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akheel51/DSA_in_Java/tree/master/0001-two-sum) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Akheel51/DSA_in_Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akheel51/DSA_in_Java/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Akheel51/DSA_in_Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
