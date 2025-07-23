@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Akheel51/DSA_in_Java/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akheel51/DSA_in_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Akheel51/DSA_in_Java/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akheel51/DSA_in_Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Akheel51/DSA_in_Java/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akheel51/DSA_in_Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akheel51/DSA_in_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Akheel51/DSA_in_Java/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akheel51/DSA_in_Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Akheel51/DSA_in_Java/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
