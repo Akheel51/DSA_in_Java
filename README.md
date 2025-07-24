@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Akheel51/DSA_in_Java/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akheel51/DSA_in_Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Akheel51/DSA_in_Java/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Akheel51/DSA_in_Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akheel51/DSA_in_Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Akheel51/DSA_in_Java/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/Akheel51/DSA_in_Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akheel51/DSA_in_Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Akheel51/DSA_in_Java/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Akheel51/DSA_in_Java/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
 | ------- |
