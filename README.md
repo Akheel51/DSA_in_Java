@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akheel51/DSA_in_Java/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akheel51/DSA_in_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akheel51/DSA_in_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akheel51/DSA_in_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akheel51/DSA_in_Java/tree/master/0035-search-insert-position) |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Akheel51/DSA_in_Java/tree/master/2169-simple-bank-system) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akheel51/DSA_in_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
