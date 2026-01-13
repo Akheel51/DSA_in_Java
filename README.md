@@ -17,6 +17,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Akheel51/DSA_in_Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Akheel51/DSA_in_Java/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akheel51/DSA_in_Java/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Akheel51/DSA_in_Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/Akheel51/DSA_in_Java/tree/master/1791-richest-customer-wealth) |
 | [2169-simple-bank-system](https://github.com/Akheel51/DSA_in_Java/tree/master/2169-simple-bank-system) |
 ## Hash Table
